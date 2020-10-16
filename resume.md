@@ -3,7 +3,7 @@ Dóra Zsuzsanna Simon
 
 Schönberggasse 1 | 8001 Zurich, Switzerland
 +41 78 898 78 10 | dora.simon@econ.uzh.ch
-[LinkedIn Profile](http://www.linkedin.com/in/dora-simon-economist)
+[simondzs.github.io](https://simondzs.github.io/) | Updated: October 2020
 
 Education
 ---------
@@ -34,30 +34,40 @@ Education
 
     -   Supervisor of Bachelor Thesis: Michael Binder
 
-    *Universitat Pompeu Fabra, Barcelona*
-
-    -   Semester abroad (09/2011 - 12/2011)
 
 
-
-
-Research
+Research Interests
 ----------------------------------------
 
-*   **University of Zurich** (08/2015 - present)
+  International Trade, Environmental Economics
 
-    *"To Beef or Not To Beef: Trade, Meat, and the Environment"*
+
+Work in Progress
+----------------------------------------
+
+  <!-- **D. Simon**, 2020, *"To Beef or Not To Beef: Trade, Meat, and the Environment"*
 
     -   Job market paper in cooperation with a European retailer
     -   How can consumers reduce the emissions from agriculture?
 
-    *"Consumption Slowdown after the Great Recession"*
+  **D. Simon**, V. Sulaja, 2020, *"Consumption Slowdown after the Great Recession"*
 
-    -   joint work with Vladimir Sulaja
-    -   Did the Fed's bank regulation policy affect consumption slowdown after the great recession?
+    -   Did the Fed's bank regulation policy affect consumption slowdown after the great recession? -->
+
+*   **To Beef or Not To Beef: Trade, Meat, and the Environment**
+
+    *D. Simon, 2020, Job Market Paper*
+
+    Abstract: Two popular, supposedly eco-friendly consumption behaviors are buying local and vegetarianism. How can consumers reduce the emissions of the agricultural sector? To answer this question, I estimate a model of meat demand using purchasing data of meat and other protein rich products from a European retailer. I combine the purchasing data with data on production and transport emissions. The counterfactual exercises include autarky and vegetarianism and represent the reaction of consumers to different food consumption policies. I find that buying local increases emissions by around 5%, while vegetarianism decreases emissions by around 15%. Consuming no beef products including meat and cheese yields the highest decrease in emissions of around 18%.
+
+*   **Consumption Slowdown after the Great Recession**
+
+    *D. Simon, V. Sulaja, 2020*
+
+    Abstract: The consumption growth in the US has considerably decreased since the last financial crisis. We argue that this happened due to controls imposed on banks that were facing foreclosure issues. Those banks that faced foreclosure issues have faced controls by government institutions, which increased their costs and decreased their supply of mortgage loans. As a result, counties more exposed to controlled banks faced a slower recovery of house prices and therefore wealth. Using data on employment and consumption we argue that it is the wealth effect originating from bank controls that decreased consumption growth. Banks decrease their mortgage loan origination by issuing lower number of loans and not by decreasing the average amount of loan.
 
 
-*   **Barcelona Graduate School of Economics** (09/2013 - 07/2014)
+<!-- *   **Barcelona Graduate School of Economics** (09/2013 - 07/2014)
 
     *"An Approach to Ease the Spanish Credit Constraint Through Inward FDI"*
 
@@ -69,9 +79,18 @@ Research
 
     *"Hungarian Election 2014: How Not to Gerrymander"*
 
-    -   Research Paper, Grade: 9.5/10
+    -   Research Paper, Grade: 9.5/10 -->
 
-\newpage
+Academic Presentations
+--------------------
+
+2020: Giannini Foundation of Agricultural and Resource Economics Student Conference (University of California, Berkeley), HSG-ZRH International Trade Workshop (University of Zurich), Doctoral Microeconomics Seminar (University of Zurich), Doctoral Macroeconomics Seminar (University of Zurich)
+
+2019: Brown Bag Seminar (World Trade Institute, University of Bern), Environmental and Resource Economics Seminar University of California, Berkeley), Doctoral Macroeconomics Seminar (University of Zurich)
+
+2018: Doctoral Macroeconomics Seminar (University of Zurich)
+
+
 
 Teaching
 --------------------
