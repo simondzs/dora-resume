@@ -1,71 +1,143 @@
-Markdown Resumé
+Dóra Zsuzsanna Simon
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
-
-Interests
----------
-
-*   Creating beautiful resumés from simple Markdown documents
-
-
-Work Experience
----------------
-
-*   **Word Processor** (Redmond, WA)
-
-    *Junior Resumé Maker*, 2006 - 2007
-
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
-
-*   **\LaTeX\ + pdflatex**
-
-    *Senior Resumé Maker*, 2008 - 2010
-
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
-
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
-
-    *Web Resumé Intern*, August 2010
-
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
-
-*   **Markdown with Pandoc**
-
-    *Resumé Architect*, February 2011 - present
-
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
-
+Schönberggasse 1 | 8001 Zurich, Switzerland
++41 78 898 78 10 | dora.simon@econ.uzh.ch
+[LinkedIn Profile](http://www.linkedin.com/in/dora-simon-economist)
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **PhD in Economics** (08/2015 - present)
 
-    *B.S. in Submodules*, May 2012
+    *University of Zurich, Department of Economics*
+
+    -   Supervisors:  Ralph Ossa, Gregory Crawford
+    -   Main Fields: International Trade, Environmental Economics
+    -   Expected completion: Summer 2021
+
+*   **Visiting Scholar** (08/2019 - 03/2020)
+
+    *University of California, Berkeley*
+
+    -   Host:  Meredith Fowlie
+
+*   **M.Sc. in International Trade, Finance and Development** (09/2013 - 07/2014)
+
+    *Barcelona Graduate School of Economics*
+
+    -   Supervisors of Master Project: Fernando Broner and Jaume Ventura
+
+*   **B.Sc. in Economics and Business Administration** (10/2009 - 02/2013)
+
+    *Goethe University Frankfurt*
+
+    -   Supervisor of Bachelor Thesis: Michael Binder
+
+    *Universitat Pompeu Fabra, Barcelona*
+
+    -   Semester abroad (09/2011 - 12/2011)
 
 
-Skills
+
+
+Research
+----------------------------------------
+
+*   **University of Zurich** (08/2015 - present)
+
+    *"To Beef or Not To Beef: Trade, Meat, and the Environment"*
+
+    -   Job market paper in cooperation with a European retailer
+    -   How can consumers reduce the emissions from agriculture?
+
+    *"Consumption Slowdown after the Great Recession"*
+
+    -   joint work with Vladimir Sulaja
+    -   Did the Fed's bank regulation policy affect consumption slowdown after the great recession?
+
+
+*   **Barcelona Graduate School of Economics** (09/2013 - 07/2014)
+
+    *"An Approach to Ease the Spanish Credit Constraint Through Inward FDI"*
+
+    -   Master Thesis, Grade: 8.5/10
+
+    *"Transmission of Monetary Policy to Emerging Markets"*
+
+    -   Research Project, Grade: 9.5/10
+
+    *"Hungarian Election 2014: How Not to Gerrymander"*
+
+    -   Research Paper, Grade: 9.5/10
+
+\newpage
+
+Teaching
+--------------------
+
+*   **International Trade** (2017, 2018 Fall Semester)
+
+    *Bachelor Course, University of Zurich*
+
+    -   Teaching assistance with weekly 90 minute tutorials
+
+*   **Programming Practices for Research Students** (2018 September)
+
+    *PhD Short Course, University of Zurich*
+
+    -   Independent preparation & teaching of the R module
+
+*   **Cross Section and Panel Data Econometrics** (2018 September)
+
+    *Master Course, University of Zurich*
+
+    -   Teaching assistance with weekly 90 minute tutorials
+
+*   **Supervision of Bachelor and Master Theses** (2017 Fall Semester)
+
+
+
+
+Work Experience
+----------
+
+*   **European Central Bank** (09/2014 - 05/2015)
+
+    *Trainee, Frankfurt (Germany)*
+
+    -   Directorate General Market Infrastructure & Payments; TARGET2 Analytical Team
+
+*   **German Council of Economic Experts** (04/2013 - 07/2013)
+
+    *Internship, Wiesbaden (Germany)*
+
+    -   Official government consulting board in Germany; Financial Markets Division
+
+*   **European Parliament** (03/2013 - 04/2013)
+
+    *Internship, Brussels (Belgium)*
+
+    -   Office of the MEP Thomas Mann
+
+
+
+Language & Programming Skills
+-------------------------------
+
+*   **Languages**
+
+    -   German, Hungarian | *mother tongues*
+    -   English, Spanish, French | *fluent*
+
+*   **Programming**
+
+    -   R, Python, Git, Markdown
+    -   Stata, Matlab, Latex
+
+Extracurricular Activities
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
+*   Founder & Leader of the Stress Management Group for PhD Students of the University of Zurich
 
-*   Familiar with GNU Make, bash
-
-
+*   Elected as delegate of the PostDocs and PhDs in the faculty meetings
